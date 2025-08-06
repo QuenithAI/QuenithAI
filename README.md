@@ -98,7 +98,7 @@ We believe in the power of knowledge sharing. Therefore, we have open-sourced a 
     <td><strong>📝 Tips & Tricks for Conference Submissions</strong></td>
     <td align="right">
       <a href="https://github.com/QuenithAI/aaai-26-reproduction-checklist/blob/main/final-checklist.md">
-        <img src="https://img.shields.io/badge/Final_Checklist-View-blue?style=for-the-badge&logo=github" alt="Final Checklist"/>
+        <img src="https://img.shields.io/badge/Final Writing-Checklist-blue?style=for-the-badge&logo=github" alt="Final Checklist"/>
       </a>
     </td>
   </tr>
@@ -118,7 +118,7 @@ We believe in the power of knowledge sharing. Therefore, we have open-sourced a 
     <td><strong>📂 LaTeX Templates for Conferences/Journals</strong></td>
     <td align="right">
       <a href="https://github.com/QuenithAI/aaai-26-reproduction-checklist">
-        <img src="https://img.shields.io/badge/AAAI--26-Template-informational?style=for-the-badge&logo=latex" alt="AAAI-26 Template"/>
+        <img src="https://img.shields.io/badge/AAAI--26-Checklist-informational?style=for-the-badge&logo=latex" alt="AAAI-26 Checklist"/>
       </a>
     </td>
   </tr>

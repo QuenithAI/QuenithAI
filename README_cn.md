@@ -97,7 +97,7 @@
     <td><strong>📝 会议投稿技巧</strong></td>
     <td align="right">
       <a href="https://github.com/QuenithAI/aaai-26-reproduction-checklist/blob/main/final-checklist.md">
-        <img src="https://img.shields.io/badge/Final_Checklist-查看-blue?style=for-the-badge&logo=github" alt="Final Checklist"/>
+        <img src="https://img.shields.io/badge/论文写作最终-清单-blue?style=for-the-badge&logo=github" alt="Final Checklist"/>
       </a>
     </td>
   </tr>
@@ -117,7 +117,7 @@
     <td><strong>📂 会议/期刊LaTeX模板</strong></td>
     <td align="right">
       <a href="https://github.com/QuenithAI/aaai-26-reproduction-checklist">
-        <img src="https://img.shields.io/badge/AAAI--26-模板-informational?style=for-the-badge&logo=latex" alt="AAAI-26 模板"/>
+        <img src="https://img.shields.io/badge/AAAI--26 Checklist-模板-informational?style=for-the-badge&logo=latex" alt="AAAI-26 模板"/>
       </a>
     </td>
   </tr>
