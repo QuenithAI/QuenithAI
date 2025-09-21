@@ -90,6 +90,7 @@ We believe in the power of knowledge sharing. Therefore, we have open-sourced a 
 | **[aaai-26-reproduction-checklist](https://github.com/QuenithAI/aaai-26-reproduction-checklist)** | Guidelines the implement the official AAAI-26 checklist. | `Academic Writing`, `Reproducibility` | [![GitHub stars](https://img.shields.io/github/stars/QuenithAI/aaai-26-reproduction-checklist)](https://github.com/QuenithAI/aaai-26-reproduction-checklist/stargazers) [![Last Commit](https://img.shields.io/github/last-commit/QuenithAI/aaai-26-reproduction-checklist)](https://github.com/QuenithAI/aaai-26-reproduction-checklist/commits/main) |
 | **[Video-Generation-Paper-List](https://github.com/QuenithAI/Video-Generation-Paper-List)** | A curated list of must-read papers in the video generation field. | `Video Generation`, `Computer Vision` | [![GitHub stars](https://img.shields.io/github/stars/QuenithAI/Video-Generation-Paper-List)](https://github.com/QuenithAI/Video-Generation-Paper-List/stargazers) [![Last Commit](https://img.shields.io/github/last-commit/QuenithAI/Video-Generation-Paper-List)](https://github.com/QuenithAI/Video-Generation-Paper-List/commits/main) |
 | **[T2I-Generation-Paper-List](https://github.com/QuenithAI/T2I-Generation-Paper-List)** | A comprehensive collection of papers on Text-to-Image generation. | `Text-to-Image`, `Diffusion Models` | [![GitHub stars](https://img.shields.io/github/stars/QuenithAI/T2I-Generation-Paper-List)](https://github.com/QuenithAI/T2I-Generation-Paper-List/stargazers) [![Last Commit](https://img.shields.io/github/last-commit/QuenithAI/T2I-Generation-Paper-List)](https://github.com/QuenithAI/T2I-Generation-Paper-List/commits/main) |
+| **[Diffusion-Large-Language-Models-Paper-List](https://github.com/QuenithAI/Diffusion-Large-Language-Models-Paper-List)** | A comprehensive collection of papers using diffusion large language models. | `Large Language Models`, `Diffusion Models` | [![GitHub stars](https://img.shields.io/github/stars/QuenithAI/T2I-Generation-Paper-List)](https://github.com/QuenithAI/Diffusion-Large-Language-Models-Paper-List/stargazers) [![Last Commit](https://img.shields.io/github/last-commit/QuenithAI/Diffusion-Large-Language-Models-Paper-List)](https://github.com/QuenithAI/Diffusion-Large-Language-Models-Paper-List/commits/main) |
 
 #### Featured Resources:
 
@@ -130,6 +131,9 @@ We believe in the power of knowledge sharing. Therefore, we have open-sourced a 
       </a>
       <a href="https://github.com/QuenithAI/T2I-Generation-Paper-List">
         <img src="https://img.shields.io/badge/T2I_Generation-Repo-green?style=for-the-badge&logo=github" alt="T2I Generation"/>
+      </a>
+      <a href="https://github.com/QuenithAI/Diffusion-Large-Language-Models-Paper-List">
+        <img src="https://img.shields.io/badge/Diffusion_large_language_models-Repo-green?style=for-the-badge&logo=github" alt="Diffusion Large Language Models"/>
       </a>
     </td>
   </tr>
